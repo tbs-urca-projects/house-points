@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.App {
+    background-color: red;
+    text-align: center;
+    height: 100vh;
+}
+
+.ChartContainer {
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 90%;
+    width: 36%
+}

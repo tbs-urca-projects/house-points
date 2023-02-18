@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/urca-house-points/static/css/main.2f2d6c10.css",
+    "main.js": "/urca-house-points/static/js/main.d7f761fd.js",
+    "static/js/787.905ec81b.chunk.js": "/urca-house-points/static/js/787.905ec81b.chunk.js",
+    "index.html": "/urca-house-points/index.html",
+    "main.2f2d6c10.css.map": "/urca-house-points/static/css/main.2f2d6c10.css.map",
+    "main.d7f761fd.js.map": "/urca-house-points/static/js/main.d7f761fd.js.map",
+    "787.905ec81b.chunk.js.map": "/urca-house-points/static/js/787.905ec81b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f2d6c10.css",
+    "static/js/main.d7f761fd.js"
+  ]
+}
